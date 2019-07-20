@@ -1,13 +1,8 @@
-# flutter_youtube_ui
+# E-commerce app in Flutter
 
-A Flutter application to showcase different UI features of the flutter sdk.
+A small attempt to make an e-commerce user interface in Flutter for Android and iOS.
 
-## Tutorial Link
-Watch as i guide you step by step on how to build these interfaces and more. YouTube Playlist [here](https://www.youtube.com/watch?v=zSqicZ8Ky7A&list=PLkf3n4moMnEBLOE-BU2ESbZtZqIKRKJwU)
-
-## Screenshots
-
-<img height="480px" src="screenshots/1.png"> <img height="480px" src="screenshots/2.png"> <img height="480px" src="screenshots/3.png"> <img height="480px" src="screenshots/5.png"> <img height="480px" src="screenshots/6.png"> <img height="480px" src="screenshots/4.png">
+<a href="https://imgflip.com/gif/2ct5dc"><img src="https://i.imgflip.com/2ct5dc.gif" title="made at imgflip.com"/></a>
 
 ## Getting Started
 
